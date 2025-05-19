@@ -1,0 +1,10 @@
+{
+  "name": "rvr-color-sensor",
+  "description": "Simulated color sensor blocks for Sphero RVR+",
+  "dependencies": {},
+  "files": [
+    "main.ts",
+    "README.md"
+  ],
+  "preferredEditor": "ts"
+}
